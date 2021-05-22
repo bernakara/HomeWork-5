@@ -1,0 +1,5 @@
+C:\Users\90534\Desktop\hw5\HW5\DisjointSetFunctions\bin\Debug\DisjointSetFunctions.dll
+C:\Users\90534\Desktop\hw5\HW5\DisjointSetFunctions\bin\Debug\DisjointSetFunctions.pdb
+C:\Users\90534\Desktop\hw5\HW5\DisjointSetFunctions\obj\Debug\DisjointSetFunctions.csproj.CoreCompileInputs.cache
+C:\Users\90534\Desktop\hw5\HW5\DisjointSetFunctions\obj\Debug\DisjointSetFunctions.dll
+C:\Users\90534\Desktop\hw5\HW5\DisjointSetFunctions\obj\Debug\DisjointSetFunctions.pdb

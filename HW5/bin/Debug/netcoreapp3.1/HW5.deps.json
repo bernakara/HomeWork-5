@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HW5/1.0.0": {
+        "dependencies": {
+          "BellmanFordAlgorithm": "1.0.0",
+          "DijkstraAlgorithm": "1.0.0",
+          "DisjointSetFunctions": "1.0.0"
+        },
+        "runtime": {
+          "HW5.dll": {}
+        }
+      },
+      "BellmanFordAlgorithm/1.0.0": {
+        "runtime": {
+          "BellmanFordAlgorithm.dll": {}
+        }
+      },
+      "DijkstraAlgorithm/1.0.0": {
+        "runtime": {
+          "DijkstraAlgorithm.dll": {}
+        }
+      },
+      "DisjointSetFunctions/1.0.0": {
+        "runtime": {
+          "DisjointSetFunctions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HW5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BellmanFordAlgorithm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DijkstraAlgorithm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DisjointSetFunctions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
